@@ -674,8 +674,8 @@ footer {
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  width: 28px;
-  height: 28px;
+  width: 32px;
+  height: 32px;
   border-radius: 50%;
   font-size: 0.8rem;
   color: white;
@@ -708,13 +708,13 @@ footer {
 }
 
 .share-icon {
-  width: 12px;
-  height: 12px;
+  width: 16px;
+  height: 16px;
 }
 
 .share-icon-link {
-  width: 14px;
-  height: 14px;
+  width: 18px;
+  height: 18px;
 }
 
 #logout-button {
